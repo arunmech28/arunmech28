@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img align="left" alt="arunpandian Github Stats" src="https://github-readme-stats.vercel.app/api?username=arunpandian92&show_icons=true&hide_border=true" />
+<img align="left" alt="arunpandian Github Stats" src="https://github-readme-stats.vercel.app/api?username=arunmech28&show_icons=true&hide_border=true" />
 
 [website]: https://www.karyopharma.in/
 [twitter]: https://twitter.com/arunmech2893
