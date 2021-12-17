@@ -1,6 +1,6 @@
 ### Hi there, I'm Arun pandian 👋
 
-## I'm a SDET [Software Developement Engineering in Test], and Tutor!
+## I'm a SOFTWARE ENGINEER [Can Develop and Can Test and Can Automate], and Tutor!
 - 🔭 I’m currently working on a [React JS Front End Development ,NodeJS, WebdriverIO, Selenium Automation]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Node.js project contributors
