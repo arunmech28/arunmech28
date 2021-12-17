@@ -1,10 +1,11 @@
 ### Hi there, I'm Arun pandian 👋
 
 ## I'm a SDET [Software Developement Engineering in Test], and Tutor!
-- 🔭 I’m currently working on a [Node.js & Protractor]
+- 🔭 I’m currently working on a [React JS Front End Development ,NodeJS, WebdriverIO, Selenium Automation]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Node.js project contributors
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I previously worked on [Protractor]
+-  2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play E-Gamings
 
 ### Connect with me:
